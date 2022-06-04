@@ -1,5 +1,8 @@
+![hello-intro](https://user-images.githubusercontent.com/49198410/172025672-020abda4-683c-48dc-847e-6f1350e1168f.gif)
 
-[![MasterHead](https://user-images.githubusercontent.com/49198410/172024800-8e864826-b2e4-4663-a88e-c4362cbb242e.gif)](https://rishavchanda.io)
+
+
+
 
 <h1 align="center" img>Hi 👋, I'm 👨🏻‍💻 Ben Seferidis</h1>
 
@@ -8,7 +11,7 @@
 <!-- ![Work-Fun](https://user-images.githubusercontent.com/49198410/172024800-8e864826-b2e4-4663-a88e-c4362cbb242e.gif) -->
  
 
-
+[![MasterHead](https://user-images.githubusercontent.com/49198410/172024800-8e864826-b2e4-4663-a88e-c4362cbb242e.gif)](https://rishavchanda.io)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benseferidis&label=Profile%20views&color=0e75b6&style=flat" alt="benseferidis" /> </p>
