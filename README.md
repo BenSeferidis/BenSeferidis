@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm 👨🏻‍💻 Ben Seferidis</h1>
+![Work-Fun](https://user-images.githubusercontent.com/49198410/172024752-a260abd6-751e-4221-b4ca-8a59b47b514f.gif)
 <h3 align="center">I'm an undergraduate student at the Information & Electronic Engineering department at International Hellenic University in Thessaloniki, Greece.</h3>
 
-![Work-Fun](https://user-images.githubusercontent.com/49198410/172024752-a260abd6-751e-4221-b4ca-8a59b47b514f.gif)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benseferidis&label=Profile%20views&color=0e75b6&style=flat" alt="benseferidis" /> </p>
