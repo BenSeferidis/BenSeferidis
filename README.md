@@ -1,11 +1,12 @@
-                  ![hello](https://user-images.githubusercontent.com/49198410/172024987-a2491ea5-4314-4b10-8217-2dea7ad4a56a.gif)
 
+[![MasterHead](https://user-images.githubusercontent.com/49198410/172024800-8e864826-b2e4-4663-a88e-c4362cbb242e.gif)](https://rishavchanda.io)
 
-<h1 align="center">Hi 👋, I'm 👨🏻‍💻 Ben Seferidis</h1>
+<h1 align="center" img>Hi 👋, I'm 👨🏻‍💻 Ben Seferidis</h1>
 
 <h3 align="center">I'm an undergraduate student at the Information & Electronic Engineering department at International Hellenic University in Thessaloniki, Greece.</h3>
 
-![Work-Fun](https://user-images.githubusercontent.com/49198410/172024800-8e864826-b2e4-4663-a88e-c4362cbb242e.gif)
+<!-- ![Work-Fun](https://user-images.githubusercontent.com/49198410/172024800-8e864826-b2e4-4663-a88e-c4362cbb242e.gif) -->
+ 
 
 
 
@@ -14,7 +15,7 @@
 
 - 💻 I’m currently working on **Java**
 
-- 📖 I’m currently learning **Object-oriented programming and Mobile Development**
+- 📖 I’m currently learning **Object-oriented programming and Mobile Development (IOS - Swift)**
 
 - 🙋🏻‍♂️ I’m looking to collaborate with **other passionate individuals .**
 
