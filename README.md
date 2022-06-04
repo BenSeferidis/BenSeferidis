@@ -1,3 +1,6 @@
+![hello](https://user-images.githubusercontent.com/49198410/172024987-a2491ea5-4314-4b10-8217-2dea7ad4a56a.gif)
+
+
 <h1 align="center">Hi 👋, I'm 👨🏻‍💻 Ben Seferidis</h1>
 
 <h3 align="center">I'm an undergraduate student at the Information & Electronic Engineering department at International Hellenic University in Thessaloniki, Greece.</h3>
