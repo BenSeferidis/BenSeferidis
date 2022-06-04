@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benseferidis&label=Profile%20views&color=0e75b6&style=flat" alt="benseferidis" /> </p>
 
-<p align="left"> <a href="https://twitter.com/seferidis99" target="blank"><img src="https://img.shields.io/twitter/follow/seferidis99?logo=twitter&style=for-the-badge" alt="seferidis99" /></a> </p>
-
 - 💻 I’m currently working on **Java**
 
 - 📖 I’m currently learning **Object-oriented programming and Mobile Development**
