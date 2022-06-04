@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm 👨🏻‍💻 Ben Seferidis</h1>
-![Work-Fun](https://user-images.githubusercontent.com/49198410/172024793-bd88b0f9-26e1-4a38-95c3-f617b45f021e.gif)
 
 <h3 align="center">I'm an undergraduate student at the Information & Electronic Engineering department at International Hellenic University in Thessaloniki, Greece.</h3>
+
+![Work-Fun](https://user-images.githubusercontent.com/49198410/172024800-8e864826-b2e4-4663-a88e-c4362cbb242e.gif)
+
 
 
 
