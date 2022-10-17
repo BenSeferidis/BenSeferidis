@@ -16,7 +16,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benseferidis&label=Profile%20views&color=0e75b6&style=flat" alt="benseferidis" /> </p>
 
-- 💻 I’m currently working on **Swift due to my Intership on iOS Development **
+- 💻 I’m currently working on **Swift**  due to my Intership on iOS Development 
 
 - 📖 I’m currently learning **Object-oriented programming and Mobile Development (IOS - Swift)**
 
