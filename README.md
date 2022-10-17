@@ -48,7 +48,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Java 
+- 🔭 I’m currently working on Swift due to my Intership on iOS Development 
 - 🌱 I’m currently learning Object-oriented programming and Mobile Development
 -    I'm trying to improve my programming skills everyday by learning programming languages and explorying new technologies.
 - 👯 I’m looking to collaborate with other passionate individuals . 
