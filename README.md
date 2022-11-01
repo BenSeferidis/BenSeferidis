@@ -18,7 +18,7 @@
 
 - 💻 I’m currently working on **Swift**  due to my Intership on iOS Development 
 
-- 📖 I’m currently learning **Object-oriented programming and Mobile Development (IOS - Swift)**
+- 📖 I’m currently learning **Object-oriented programming and Mobile Development (iOS - Swift)**
 
 - 🙋🏻‍♂️ I’m looking to collaborate with **other passionate individuals .**
 
