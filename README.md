@@ -33,7 +33,7 @@
 <p align="left">
 <a href="https://twitter.com/seferidis99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="seferidis99" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/benseferidis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benseferidis" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@seferidis99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@seferidis99" height="30" width="40" /></a>
+<a href="https://medium.com/@seferidis99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@seferidis99" height="30" width="40" /></a>
 </p>
 
 
