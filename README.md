@@ -16,9 +16,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benseferidis&label=Profile%20views&color=0e75b6&style=flat" alt="benseferidis" /> </p>
 
-- 💻 I’m currently working on **Swift & SwiftUI**  as an iOS Development 
+- 💻 I’m currently working on **Swift & SwiftUI**  as an iOS Software Engineer 
 
-- 📖 I’m currently learning **The Composable Architecture(TCA)** among with **CleanCode Architecture & Combine** for **Swift & SwiftUI.**
+- 📖 I’m currently learning **Modular & Clean Code Architecture Design Patterns** among with **Modern Concurency & Swift 6** for migrate my **UIKit & SwiftUI** projects.
 
 - 🙋🏻‍♂️ I’m looking to collaborate with **other passionate individuals .**
 
