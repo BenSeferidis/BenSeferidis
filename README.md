@@ -6,7 +6,7 @@
 
 <h1 align="center" img>Hi 👋, I'm 👨🏻‍💻 Ben Seferidis</h1>
 
-<h3 align="center">I'm an undergraduate student at the Information & Electronic Engineering department at International Hellenic University in Thessaloniki, Greece.</h3>
+<h3 align="center">I'm an Senior iOS Software Engineer. A graduate student from the Information & Electronic Engineering department at International Hellenic University in Thessaloniki, Greece.</h3>
 
 <!-- ![Work-Fun](https://user-images.githubusercontent.com/49198410/172024800-8e864826-b2e4-4663-a88e-c4362cbb242e.gif) -->
  
@@ -18,7 +18,7 @@
 
 - 💻 I’m currently working on **Swift & SwiftUI**  as an iOS Software Engineer 
 
-- 📖 I’m currently learning **Modular & Clean Code Architecture Design Patterns** among with **Modern Concurency & Swift 6** for migrate my **UIKit & SwiftUI** projects.
+- 📖 I’m currently developing **Modular & Clean Code Architecture Design Patterns** among with **Modern Concurency & Swift 6** for migrate my **UIKit & SwiftUI** projects.
 
 - 🙋🏻‍♂️ I’m looking to collaborate with **other passionate individuals .**
 
